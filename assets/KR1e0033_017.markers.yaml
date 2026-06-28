@@ -1,0 +1,63 @@
+canonical_identifier: bkk:krp/KR1e0033/bkk/v1/markers/17
+seq: 17
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR1e0033_WYG_017-1a01}
+  - {type: indent, offset: 0, content: 　, id: KR1e0033_krp_017-bkkind1}
+  - {type: 'kr:newline', offset: 5, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl2}
+  - {type: line-break, offset: 5, content: '', id: KR1e0033_WYG_017-1a02}
+  - {type: substitution, offset: 9, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
+  - {type: 'kr:newline', offset: 26, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl3}
+  - {type: line-break, offset: 26, content: '', id: KR1e0033_WYG_017-1a03}
+  - {type: substitution, offset: 35, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
+  - {type: 'kr:newline', offset: 47, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl4}
+  - {type: line-break, offset: 47, content: '', id: KR1e0033_WYG_017-1a04}
+  - {type: substitution, offset: 64, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
+  - {type: 'kr:newline', offset: 68, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl5}
+  - {type: line-break, offset: 68, content: '', id: KR1e0033_WYG_017-1a05}
+  - {type: 'kr:newline', offset: 89, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl6}
+  - {type: line-break, offset: 89, content: '', id: KR1e0033_WYG_017-1a06}
+  - {type: substitution, offset: 102, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3256}}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl7}
+  - {type: line-break, offset: 110, content: '', id: KR1e0033_WYG_017-1a07}
+  - {type: substitution, offset: 124, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
+  - {type: 'kr:newline', offset: 131, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl8}
+  - {type: line-break, offset: 131, content: '', id: KR1e0033_WYG_017-1a08}
+  - {type: substitution, offset: 139, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
+  - {type: punctuation, offset: 143, content: (, id: KR1e0033_krp_017-bkkpn1}
+  - {type: punctuation, offset: 152, content: /, id: KR1e0033_krp_017-bkkpn2}
+  - {type: punctuation, offset: 161, content: ), id: KR1e0033_krp_017-bkkpn3}
+  - {type: 'kr:newline', offset: 161, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl9}
+  - {type: page-break, offset: 161, content: '', id: KR1e0033_WYG_017-1b, image: WYG0149/WYG0149-0493b.png}
+  - {type: 'kr:newline', offset: 161, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl10}
+  - {type: line-break, offset: 161, content: '', id: KR1e0033_WYG_017-1b01}
+  - {type: punctuation, offset: 161, content: (, id: KR1e0033_krp_017-bkkpn4}
+  - {type: punctuation, offset: 171, content: /, id: KR1e0033_krp_017-bkkpn5}
+  - {type: punctuation, offset: 181, content: ), id: KR1e0033_krp_017-bkkpn6}
+  - {type: 'kr:newline', offset: 181, content: '
+
+      ', id: KR1e0033_krp_017-bkkkrnewl11}
+  back: []
+hash: sha256:bdbbedd939b59c936a88ea891d800cd9cab0133a93320abb9987ac34c374a9a1
